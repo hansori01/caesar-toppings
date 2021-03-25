@@ -15,7 +15,7 @@ This was a group project with
 I intergrated PostgreSql database and data modelling, routing, Twilio API implementation, and designing the menu.
 
 ### Navigate, select, and place order using the app.
-!["user interaction"](https://github.com/hansori01/caesar-toppings/blob/master/planning/demo.gif?raw=true)
+!["user interaction"](https://github.com/hansori01/caesar-toppings/blob/master/planning/demo.gif?raw=true | width=100)
 
 ## Getting started
 
